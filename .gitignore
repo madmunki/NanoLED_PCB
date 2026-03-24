@@ -1,0 +1,4 @@
+## Ignore KiCad temporary files, history, etc.
+
+.history/
+NanoLED_PCB-backups/
